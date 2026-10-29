@@ -1,0 +1,110 @@
+[
+ {
+  "name": "b2-collage",
+  "logo": "logo-hd.png",
+  "fotos": [
+   "img/foto-hd-pflanzung.jpg",
+   "img/foto-hd-team-gewaechshaus.jpg",
+   "img/foto-hd-kulturkontrolle.jpg"
+  ],
+  "fokus": [
+   [
+    0.5,
+    0.4
+   ],
+   [
+    0.5,
+    0.4
+   ],
+   [
+    0.5,
+    0.4
+   ]
+  ],
+  "primary": "#066025",
+  "ink": "#1B1B1B",
+  "headline": [
+   "Baumschul-",
+   "gärtner"
+  ],
+  "headline_zusatz": "(m/w/d)",
+  "ort": "Neuhausen · Pforzheim · Calw",
+  "cta": [
+   "Jetzt unverbindliches",
+   "Job-Angebot erhalten –",
+   "mit 1 Klick!"
+  ]
+ },
+ {
+  "name": "v2-collage",
+  "logo": "logo-hd.png",
+  "fotos": [
+   "img/foto-hd-astern.jpg",
+   "img/foto-hd-gelber-strauch.jpg",
+   "img/foto-hd-stauden.jpg"
+  ],
+  "fokus": [
+   [
+    0.5,
+    0.4
+   ],
+   [
+    0.5,
+    0.4
+   ],
+   [
+    0.5,
+    0.4
+   ]
+  ],
+  "primary": "#066025",
+  "ink": "#1B1B1B",
+  "headline": [
+   "Verkaufs-",
+   "gärtner"
+  ],
+  "headline_zusatz": "(m/w/d)",
+  "ort": "Neuhausen · Pforzheim · Calw",
+  "cta": [
+   "Jetzt unverbindliches",
+   "Job-Angebot erhalten –",
+   "mit 1 Klick!"
+  ]
+ },
+ {
+  "name": "k2-collage",
+  "logo": "logo-hd.png",
+  "fotos": [
+   "img/foto-hd-tastatur.jpg",
+   "img/foto-hd-tresen-uhr.jpg",
+   "img/foto-hd-gewaechshaus.jpg"
+  ],
+  "fokus": [
+   [
+    0.5,
+    0.4
+   ],
+   [
+    0.5,
+    0.4
+   ],
+   [
+    0.5,
+    0.4
+   ]
+  ],
+  "primary": "#066025",
+  "ink": "#1B1B1B",
+  "headline": [
+   "Baumschul-",
+   "kaufmann"
+  ],
+  "headline_zusatz": "(m/w/d)",
+  "ort": "Neuhausen · Pforzheim · Calw",
+  "cta": [
+   "Jetzt unverbindliches",
+   "Job-Angebot erhalten –",
+   "mit 1 Klick!"
+  ]
+ }
+]

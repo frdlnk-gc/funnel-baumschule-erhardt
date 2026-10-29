@@ -1,0 +1,65 @@
+[
+ {
+  "name": "b1-karten-hook",
+  "logo": "logo-hd.png",
+  "foto": "img/foto-hd-hortensien.jpg",
+  "fokus": [
+   0.5,
+   0.4
+  ],
+  "karte": "img/karte.jpg",
+  "primary": "#066025",
+  "headline": [
+   "BAUMSCHUL-",
+   "GÄRTNER"
+  ],
+  "headline_zusatz": "(m/w/d)",
+  "pill": [
+   "Ohne Lebenslauf &",
+   "Anschreiben!"
+  ],
+  "ort": "Neuhausen · Pforzheim · Calw"
+ },
+ {
+  "name": "v1-karten-hook",
+  "logo": "logo-hd.png",
+  "foto": "img/foto-hd-verkaufstresen.jpg",
+  "fokus": [
+   0.5,
+   0.4
+  ],
+  "karte": "img/karte.jpg",
+  "primary": "#066025",
+  "headline": [
+   "VERKAUFS-",
+   "GÄRTNER"
+  ],
+  "headline_zusatz": "(m/w/d)",
+  "pill": [
+   "Ohne Lebenslauf &",
+   "Anschreiben!"
+  ],
+  "ort": "Neuhausen · Pforzheim · Calw"
+ },
+ {
+  "name": "k1-karten-hook",
+  "logo": "logo-hd.png",
+  "foto": "img/foto-hd-buero.jpg",
+  "fokus": [
+   0.5,
+   0.4
+  ],
+  "karte": "img/karte.jpg",
+  "primary": "#066025",
+  "headline": [
+   "BAUMSCHUL-",
+   "KAUFMANN"
+  ],
+  "headline_zusatz": "(m/w/d)",
+  "pill": [
+   "Ohne Lebenslauf &",
+   "Anschreiben!"
+  ],
+  "ort": "Neuhausen · Pforzheim · Calw"
+ }
+]

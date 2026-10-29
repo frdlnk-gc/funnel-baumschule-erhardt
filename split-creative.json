@@ -1,0 +1,131 @@
+[
+ {
+  "name": "b3-wir-suchen",
+  "logo": "logo-hd.png",
+  "foto": "img/foto-hd-team-gewaechshaus.jpg",
+  "primary": "#066025",
+  "panel": "top",
+  "panel_hoehe": 0.52,
+  "panel_bg": "#066025",
+  "kicker": "WIR SUCHEN IN NEUHAUSEN",
+  "headline": [
+   "Baumschulgärtner",
+   "(m/w/d)"
+  ],
+  "subline": "Familienbetrieb seit 1958 – unbefristet.",
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.4
+  ]
+ },
+ {
+  "name": "b4-checkliste",
+  "logo": "logo-hd.png",
+  "foto": "img/foto-hd-pflanzung.jpg",
+  "primary": "#066025",
+  "panel": "bottom",
+  "panel_hoehe": 0.58,
+  "panel_bg": "#FFFFFF",
+  "kicker": "BAUMSCHULE BEI PFORZHEIM",
+  "headline": [
+   "Baumschulgärtner (m/w/d)"
+  ],
+  "checkliste": [
+   "Urlaubsgeld",
+   "Betriebliche Altersvorsorge",
+   "Jobrad-Leasing"
+  ],
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.4
+  ]
+ },
+ {
+  "name": "v3-wir-suchen",
+  "logo": "logo-hd.png",
+  "foto": "img/foto-hd-astern.jpg",
+  "primary": "#066025",
+  "panel": "top",
+  "panel_hoehe": 0.52,
+  "panel_bg": "#066025",
+  "kicker": "WIR SUCHEN IN NEUHAUSEN",
+  "headline": [
+   "Verkaufsgärtner",
+   "(m/w/d)"
+  ],
+  "subline": "Gehölze verkaufen – unbefristet, mit Urlaubsgeld.",
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.4
+  ]
+ },
+ {
+  "name": "v4-checkliste",
+  "logo": "logo-hd.png",
+  "foto": "img/foto-hd-tresen-uhr.jpg",
+  "primary": "#066025",
+  "panel": "bottom",
+  "panel_hoehe": 0.58,
+  "panel_bg": "#FFFFFF",
+  "kicker": "BAUMSCHULE BEI PFORZHEIM",
+  "headline": [
+   "Verkaufsgärtner (m/w/d)"
+  ],
+  "checkliste": [
+   "Urlaubsgeld",
+   "Ermäßigte Preise für Pflanzen",
+   "Jobrad-Leasing"
+  ],
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.4
+  ]
+ },
+ {
+  "name": "k3-wir-suchen",
+  "logo": "logo-hd.png",
+  "foto": "img/foto-hd-tastatur.jpg",
+  "primary": "#066025",
+  "panel": "top",
+  "panel_hoehe": 0.52,
+  "panel_bg": "#066025",
+  "kicker": "WIR SUCHEN IN NEUHAUSEN",
+  "headline": [
+   "Baumschulkaufmann",
+   "(m/w/d)"
+  ],
+  "subline": "Büro & Verkauf – unbefristet, mit Urlaubsgeld.",
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.4
+  ]
+ },
+ {
+  "name": "k4-checkliste",
+  "logo": "logo-hd.png",
+  "foto": "img/foto-hd-buero.jpg",
+  "primary": "#066025",
+  "panel": "bottom",
+  "panel_hoehe": 0.58,
+  "panel_bg": "#FFFFFF",
+  "kicker": "BAUMSCHULE BEI PFORZHEIM",
+  "headline": [
+   "Baumschulkaufmann (m/w/d)"
+  ],
+  "checkliste": [
+   "Urlaubsgeld",
+   "Betriebliche Altersvorsorge",
+   "Firmenhandy & Jobrad-Leasing"
+  ],
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.4
+  ]
+ }
+]
