@@ -1,0 +1,163 @@
+{
+ "firma": "Baumschule Erhardt",
+ "stelle": "Gärtner & Baumschulkaufmann (m/w/d)",
+ "ort": "Neuhausen-Steinegg",
+ "plz": "75242",
+ "branche": "baumschule",
+ "farbe_primary": "#066025",
+ "farbe_secondary": "#A6D20C",
+ "region_badge": "Neuhausen-Steinegg & Umgebung",
+ "benefit_top": "Urlaubsgeld & Jobrad-Leasing",
+ "stellen_frage": "Für welche Stelle interessierst du dich?",
+ "stellen": [
+  {
+   "label": "Baumschulgärtner (m/w/d)",
+   "sub": "Kultur, Pflanzenschutz & Verkauf",
+   "icon": "🌳"
+  },
+  {
+   "label": "Verkaufsgärtner (m/w/d)",
+   "sub": "Fachgerechter Verkauf von Gehölzen",
+   "icon": "🌸"
+  },
+  {
+   "label": "Baumschulkaufmann (m/w/d)",
+   "sub": "Beratung, Einkauf & Auftragsbearbeitung",
+   "icon": "💻"
+  }
+ ],
+ "benefits": [
+  "Unbefristeter Arbeitsvertrag",
+  "Urlaubsgeld",
+  "Betriebliche Altersvorsorge",
+  "Jobrad-Leasing",
+  "Firmenhandy",
+  "Ermäßigte Preise für Pflanzen und Gartenprodukte",
+  "Kita-Zuschuss",
+  "Kostenübernahme für berufliche Zertifizierungen & Fort- und Weiterbildungsmöglichkeiten",
+  "Interne Karrierechancen",
+  "Keine Montageeinsätze mit Übernachtung",
+  "Überstundenausgleich",
+  "Hilfe bei der Wohnungssuche",
+  "Getränke-Flatrate & Gesundheitsangebote",
+  "Flache Hierarchien & freundliches Arbeitsklima",
+  "Betriebsausflüge & regelmäßige Firmenfeiern"
+ ],
+ "aufgaben": [
+  "Baumschulgärtner: Kulturführung von Gehölzen im Container, Bewässerung und Pflege, Koordinierung von Pflanzenschutzmaßnahmen",
+  "Baumschulgärtner: Gehölzlieferungen annehmen und versorgen, Arbeitsprozesse dokumentieren, Gehölze verkaufen – als Meister/Techniker mit Teamführung",
+  "Verkaufsgärtner: professioneller Verkauf von Gehölzen und Kundenbetreuung, Pflanzen präsentieren, auszeichnen und pflegen, Zubehör- und Dekoprodukte verwalten",
+  "Baumschulkaufmann: Telefon- und E-Mail-Beratung der Privatkunden, Angebote, Einkauf und Preiskalkulation, Auftragsbearbeitung bis zur Rechnungsstellung – in der Hochsaison auch im Verkauf"
+ ],
+ "anforderung": "Für die Gärtner-Stellen: eine abgeschlossene Gärtnerausbildung (Baumschule, Staude, GaLaBau oder Friedhof) und fundierte Gehölzkenntnisse. Für das Büro: sicherer Umgang mit MS Office und Warenwirtschaft, Kommunikationsstärke und Organisationstalent. Berufserfahrung ist herzlich willkommen – und Freude im Umgang mit Menschen bringst du mit.",
+ "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+ "fachrichtungen": [
+  {
+   "label": "Gärtner Baumschule / Staude",
+   "icon": "🌳",
+   "qualifikationen": [
+    {
+     "label": "Gärtnerausbildung abgeschlossen",
+     "icon": "🎓"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Erfahren ohne Abschluss",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Gärtner GaLaBau / Friedhof",
+   "icon": "🌿",
+   "qualifikationen": [
+    {
+     "label": "Gärtnerausbildung abgeschlossen",
+     "icon": "🎓"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Erfahren ohne Abschluss",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Kaufmännischer Bereich",
+   "icon": "💼",
+   "qualifikationen": [
+    {
+     "label": "Kaufmännische Ausbildung",
+     "icon": "🎓"
+    },
+    {
+     "label": "Berufserfahrung in Büro / Verkauf",
+     "icon": "💪"
+    },
+    {
+     "label": "Möchte mich dahin entwickeln",
+     "icon": "💡"
+    }
+   ]
+  },
+  {
+   "label": "Anderer Bereich",
+   "icon": "🔄",
+   "qualifikationen": [
+    {
+     "label": "Ausbildung in anderem Beruf",
+     "icon": "📘"
+    },
+    {
+     "label": "Quereinsteiger mit Pflanzenliebe",
+     "icon": "💡"
+    }
+   ]
+  }
+ ],
+ "ueber": {
+  "fakten": [
+   {
+    "zahl": "1958",
+    "label": "gegründet"
+   },
+   {
+    "zahl": "20",
+    "label": "Mitarbeiter"
+   },
+   {
+    "zahl": "3.",
+    "label": "Generation"
+   }
+  ],
+  "text": "Die Baumschule Erhardt u. Erh.-Bornemann GbR ist ein etabliertes Familienunternehmen in der dritten Generation mit Sitz in Neuhausen-Steinegg im Enzkreis – zwischen Pforzheim, Stuttgart, Calw und Karlsruhe. Spezialisiert auf Kultivierung und Verkauf von Gehölzen, werden auf ca. 2 ha Gehölze im Container und Freiland kultiviert. Das Team wächst kontinuierlich – mit familiärer Atmosphäre und einem Arbeitsplatz auf Augenhöhe."
+ },
+ "kunde_tab": "40 Baumschule Erhardt",
+ "quelle": "https://baumschule-erhardt.green-careers.de",
+ "logo": "logo.png",
+ "karte": {
+  "bild": "img/karte.jpg",
+  "label": "Neuhausen-Steinegg"
+ },
+ "hero_bild": "img/hero-gewaechshaus.jpg",
+ "bilder": [
+  "img/f1-team-gewaechshaus.jpg",
+  "img/f2-hortensien.jpg",
+  "img/f3-kulturkontrolle.jpg",
+  "img/f4-verkaufstresen.jpg",
+  "img/f5-astern.jpg",
+  "img/f6-buero.jpg",
+  "img/f7-maschine.jpg",
+  "img/f8-luftbild.jpg"
+ ],
+ "video": {
+  "src": "img/video.mp4",
+  "poster": "img/video-poster.jpg"
+ }
+}
